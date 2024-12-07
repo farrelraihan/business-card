@@ -1,0 +1,36 @@
+body {
+    margin: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.dottedblue{
+    border-style: dotted;
+    border-color: blue;
+    border-width: 1px;
+}
+
+.profile-img{
+    width: 150px;
+}
+
+.card {
+    width: 400px;
+
+    text-align: center;
+    color: #2b2839;
+
+    background-color: #ddebf8;
+
+    margin: 0 auto;
+
+    justify-content: space-around;
+    
+    padding: 20px;
+
+    display: flex;
+
+    border-bottom-width: 8px;
+    border-bottom-color: #d8cefe;
+    border-bottom-style: solid;
+    border-radius: 8px;
+}
